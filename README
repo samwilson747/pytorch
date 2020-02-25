@@ -1,2 +1,6 @@
 Practice project of fundamental ML topics such as neural network modeling and training with MNIST preprocessed data sets
 and Microsoft's Dog and Cat images
+
+DATASET in intro_ml must be downloaded using MNIST processed datasets
+
+dogsvcat must be installed onto machine for usage, turn REBUILD_DATA var into TRUE to retrieve data from microsoft onto system
